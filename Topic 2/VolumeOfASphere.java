@@ -12,7 +12,8 @@ public class VolumeOfASphere
 
         System.out.printf("The volume of the sphere with a radius of %.1f is %.16f\n", radius, volume);
         System.out.println("\tProgram finished");
-        
+      keyboard.close();  
     }
 
-}1
+
+}

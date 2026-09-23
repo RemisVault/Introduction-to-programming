@@ -13,5 +13,7 @@ public class BodyMassIndex {
 
         bodymass = weight / Math.pow(height2, 2);
         System.out.printf("The body mass equals %.2f" , bodymass);
+
+        keyboard.close();
     }
 }
