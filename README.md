@@ -1,17 +1,26 @@
-First steps in creating programs with Java
+<div align="center">
 
-Subject: Introduction to programming-
+# ☕ First Steps in Creating Programs with Java
 
-Topic 1: Basic programming concepts
+**Universidad de Oviedo** · *Computer Science Engineering in Information Technologies (2026)*  
+*Subject:* Introduction to Programming
 
-Topic 2: Basic data types
+---
 
-Topic 3: Structured programming
+</div>
 
-Topic 4: Arrays and Strings
+### 📑 Topics
 
-Topic 5: Classes and Objects
+- **Topic 1:** Basic programming concepts
+- **Topic 2:** Basic data types
+- **Topic 3:** Structured programming
+- **Topic 4:** Arrays and Strings
+- **Topic 5:** Classes and Objects
 
-Computer Science Engineering In Information Technologies
+---
 
-Universidad de Oviedo, 2026
+<div align="center">
+
+*Grado en Ingeniería Informática en Tecnologías de la Información*
+
+</div>
