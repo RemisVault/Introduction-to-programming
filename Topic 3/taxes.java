@@ -20,7 +20,7 @@ public class taxes {
     System.out.print("Give me the interest rate: ");
     double annualInterest = keyboard.nextDouble();
    
-    System.out.print("Give me term: ");
+    System.out.print("Give me the term in months: ");
     int term = keyboard.nextInt();
 
     keyboard.close();
