@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public static void main (String[] args) {
 
-    Scanner keyboard= new Scanner (System.in);
+    Scanner keyboard = new Scanner (System.in);
     char option = ' ';
     char computerPlay = ' ';
 
