@@ -22,6 +22,8 @@ public class interestRate {
     System.out.println("Give me term: ");
     int term = keyboard.nextInt();
 
+    keyboard.close();
+
     System.out.print("The interest is " + calculateInterest(investedAmount, annualInterest, term));
     }
 }

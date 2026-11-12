@@ -17,6 +17,8 @@ public class acceleration2{
         System.out.print("Give me the time in seconds: ");
         
         double seconds = keyboard.nextDouble();
+
+        keyboard.close();
     
         System.out.printf("The acceleration is %.2f\n", calculateAcceleration(seconds));
     }

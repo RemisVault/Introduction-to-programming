@@ -11,6 +11,8 @@ public class acceleration{
         
         double seconds = keyboard.nextDouble();
         double accel = (vf -vi) / seconds;
+
+        keyboard.close();
         
         System.out.printf("The acceleration is %.2f\n", accel);
     }
